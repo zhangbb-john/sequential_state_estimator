@@ -1,6 +1,6 @@
 Sequential State Estimator Toolbox for Matlab
 ==
-This project is based on code from the [ekf_ukf](https://github.com/EEA-sensors/ekfukf)] repository by ANYbotics. Many thanks to the authors, [Simo Särkkä](http://users.aalto.fi/~ssarkka/), Jouni Hartikainen, and [Arno Solin](http://arno.solin.fi), for their contributions. 
+This project is based on code from the [ekf_ukf](https://github.com/EEA-sensors/ekfukf) repository by ANYbotics. Many thanks to the authors, [Simo Särkkä](http://users.aalto.fi/~ssarkka/), Jouni Hartikainen, and [Arno Solin](http://arno.solin.fi), for their contributions. 
 
 
 
