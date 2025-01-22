@@ -11,6 +11,7 @@
 % This software is distributed under the GNU General Public 
 % Licence (version 2 or later); please refer to the file 
 % Licence.txt, included with the software, for details.
+addpath(genpath('../../'));
 
 clc;
 disp('Filtering the signal with EKF...');
